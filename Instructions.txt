@@ -1,0 +1,7 @@
+Merci d'avoir téléchargé ce super chiffreur que j'ai nommé 'Vixel'.
+Cependant, si vous lancez le script 'main.py', vous aurez une erreur car vous devez modifier
+les deux variables présentes en haut du code.
+Dans 'FICHIER_A_CHIFFRER' vous devez spécifier le chemain qui représente le fichier que vous souhaitez chiffrer.
+Dans 'FICHIER_DE_RECEPTION' vous devez spécifier le chemain qui représente le fichier dans lequel le résulat de votre chiffrage s'écrira.
+
+De Mathieu-lecool /// https://github.com/Mathieu-lecool
