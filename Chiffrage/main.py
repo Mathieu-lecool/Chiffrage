@@ -71,7 +71,7 @@ def _dechiffrage(cible, travail):
 if platform == "win32": commande = "cls"
 elif platform == "linux": commande = "clear"
 while True:
-    if input("Quel est le mot de passe ? ") == "Auf Wiedersehen":
+    if input("Quel est le mot de passe ? ") == "ENTRE TON MOT DE PASSE": #-----------------------
         call(commande, shell=True)
         choix = input("1 : Chiffrer\n2 : Déchiffrer\n")
         for chiffre in choix:
